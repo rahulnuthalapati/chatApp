@@ -44,6 +44,4 @@ This is a C/C++ based text chat application built from scratch with networking c
 -   Error handling is implemented for invalid commands, IP addresses, and port numbers.
 -   The server maintains statistics on messages sent and received by each client.
 
-Feel free to explore and modify the code to enhance the functionality of this text chat application.
-
 Please note that this project was developed as part of a university course and is intended for educational purposes.
